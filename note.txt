@@ -1,0 +1,4 @@
+how update te README.md
+
+from url upload the file data.json
+https://rahuldkjain.github.io/gh-profile-readme-generator/
