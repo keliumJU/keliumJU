@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keliumju" alt="keliumju" /></a> </p>
 
-- 🔭 I’m currently working on **podnation**
+- 🔭 I’m currently working on [OKDOSE-DAPP](https://github.com/kommitters/okdose-dapp)
 
 - 🌱 I’m currently learning **Real time, algorithms and problem solving**
 
